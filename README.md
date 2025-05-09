@@ -23,4 +23,6 @@ Agregamos el codigo de la pagina
     <p><strong>Fecha:</strong> 07/05/2025</p>
     <p><strong>Enlace:</strong> <a href="https://www.youtube.com/watch?v=1BRB3-JJbPU" target="_blank">Youtube ESPE</a></p> 
 ```
+# Parte 2: Analiza una página web existente
+Procedemos abrir los sitios web para la respectiva inspeccion de codigos.
 
