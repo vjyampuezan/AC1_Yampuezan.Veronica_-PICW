@@ -1,5 +1,5 @@
 # Parte 1: Crea tu primera página HTML
-
+Agregamos el codigo de la pagina 
 ``` html
 <!DOCTYPE html>
 <html lang="es">
