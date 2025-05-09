@@ -25,4 +25,8 @@ Agregamos el codigo de la pagina
 ```
 # Parte 2: Analiza una página web existente
 Procedemos abrir los sitios web para la respectiva inspeccion de codigos.
+#Imagen Parte 2
+
+![](https://github.com/vjyampuezan/AC1_Yampuezan.Veronica_-PICW/blob/main/img123/Captura%20de%20pantalla%20(104).png)
+
 
